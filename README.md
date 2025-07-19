@@ -16,7 +16,7 @@ This repository automatically scans JioTV channels and extracts **DRM-protected 
 
 ## 📡 Get The Data
 
-https://raw.githubusercontent.com/yourusername/repo-name/main/AniXLinks_Output/AniXLinks_JioTV_DRM_Channels_by_Aniket_Aep.json
+https://raw.githubusercontent.com/AniketSainiOp/AniXJio/main/AniXLinks_Output/AniXLinks_JioTV_DRM_Channels_by_Aniket_Aep.json
 
 ## ⚡ Status
 
