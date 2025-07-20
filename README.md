@@ -9,14 +9,14 @@
 
 This repository automatically scans JioTV channels and extracts **DRM-protected channels** with their encryption keys.
 
-- 🔄 **Auto-scans** channels 1-5000 every 2 hours
-- 🔐 **Finds only DRM channels** with working encryption keys  
+- 🔄 **Auto-scans Channels**
+- 🔐 **Finds only DRM channels**
 - 💾 **Updates JSON file** automatically when new channels are found
 - 📊 **Live data feed** - always fresh and up-to-date
 
 ## 📡 Get The Data
 
-https://raw.githubusercontent.com/AniketSainiOp/AniXJio/main/AniXLinks_Output/AniXLinks_JioTV_DRM_Channels_by_Aniket_Aep.json
+https://raw.githubusercontent.com/AniketSainiOp/AniXJio/refs/heads/main/AniXLinks_JioTV_DRM_Channels_by_Aniket_Aep.json
 
 ## ⚡ Status
 
