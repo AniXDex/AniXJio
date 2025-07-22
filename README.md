@@ -1,31 +1,19 @@
-# 🔐 AniXLinks JioTV DRM Data
+# AniXJio
 
-### Live JioTV DRM Channel Database
-**Author: Aniket Aep**
+![Status](https://img.shields.io/badge/Status-Active-green)
+![Updated](https://img.shields.io/badge/Updated-202507/22/250707/22/2522-blue)
 
----
+## About
 
-## What This Does
+AniXJio is a Token Updater.
+## Usage
 
-This repository automatically scans JioTV channels and extracts **DRM-protected channels** with their encryption keys.
+Update Tokens For Your Use.
 
-- 🔄 **Auto-scans Channels**
-- 🔐 **Finds only DRM channels**
-- 💾 **Updates JSON file** automatically when new channels are found
-- 📊 **Live data feed** - always fresh and up-to-date
+## Creator
 
-## 📡 Get The Data
-
-https://raw.githubusercontent.com/AniketSainiOp/AniXJio/refs/heads/main/AniXLinks_JioTV_DRM_Channels_by_Aniket_Aep.json
-
-## ⚡ Status
-
-![Status](https://img.shields.io/badge/Status-Live%20%26%20Updating-green)
-![Updates](https://img.shields.io/badge/Updates-Every%202%20Hours-blue)
-![DRM](https://img.shields.io/badge/DRM%20Channels%20Only-red)
+**Aniket Saini** - [@AniketSainiOp](https://github.com/AniketSainiOp)
 
 ---
 
-This tool is for educational purposes only. You are responsible for how you use it. Do not use this tool to break any laws or violate the terms of service of any website.
-
-**🛡️ Protected by AniXLinks - Aniket Aep**
+*Last updated: 2025-07-22 15:41 UTC*
