@@ -1,7 +1,7 @@
 # AniXJio
 
 ![Status](https://img.shields.io/badge/Status-Active-green)
-![Updated](https://img.shields.io/badge/Updated-202507/24/250707/24/2524-blue)
+![Updated](https://img.shields.io/badge/Updated-202507/25/250707/25/2525-blue)
 
 ## About
 
@@ -16,4 +16,4 @@ Update Tokens For Your Use.
 
 ---
 
-*Last updated: 2025-07-24 23:49 UTC*
+*Last updated: 2025-07-25 00:54 UTC*
