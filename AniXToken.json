@@ -1,9 +1,8 @@
 {
-  "token": "__hdnea__=st=1753528901~exp=1753615301~acl=/*~hmac=4d39c2b26f926afc00642d558728f9ca112c847318404869882b917607a2ee30",
-  "fetched_at": "2025-07-26T17:57:03.661008",
-  "status": "success",
+  "error": "Request failed: 520 Server Error: <none> for url: https://8088y.site/JioTv/play.php?id=541",
+  "fetched_at": "2025-07-26T18:37:59.973495",
+  "status": "failed",
   "processed_by": "AniXToken",
   "creator": "Aniket Saini",
-  "project": "AniXJio",
-  "version": "v1.0"
+  "project": "AniXJio"
 }
