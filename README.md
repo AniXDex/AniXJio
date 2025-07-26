@@ -1,7 +1,6 @@
 # AniXJio
 
 ![Status](https://img.shields.io/badge/Status-Active-green)
-![Updated](https://img.shields.io/badge/Updated-202507/26/250707/26/2526-blue)
 
 ## About
 
@@ -48,4 +47,3 @@ By using this service, you acknowledge that:
 
 ---
 
-*Last updated: 2025-07-26 20:28 UTC*
